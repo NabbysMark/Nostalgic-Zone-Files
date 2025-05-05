@@ -26,7 +26,7 @@ Zombies
 
 # ServerScriptService
 
-Game Loop: stored in ServerScriptService
+Game Loop
 
 # Workspace
 
